@@ -8,7 +8,7 @@
 
 ### Project description
 
-Bu yerda men "Library" yani "Kutubxona" loyihasini qildim, "Kutubxona" loyihasida siz kitoblar va ularni janri va aftorini qo'shsangiz bo'ladi. Yana siz Kutubxonaga hamma kerakli malumotlarni qo'shganigizdan so'ng kitob malumotiga kirsangiz u yerda siz ko'rsangiz bo'ladi "Aftor" deb nomlangan joyida aftor nomini ustiga bosangiz siz aftor xaqida nima qo'shgan bo'lsangiz shu ko'rsangiz bo'ladi.
+Bu yerda men "Library" yani "Kutubxona" loyihasini qildim, "Kutubxona" loyihasida siz kitoblar va ularni janri va aftorini qo'shsangiz bo'ladi. Yana siz Kutubxonaga hamma kerakli malumotlarni qo'shganigizdan so'ng kitob malumotiga kirsangiz "Aftor" deb nomlangan joyini ko'rasiz va aftor nomini ustiga bosangiz siz aftor xaqida nima qo'shgan bo'lsangiz shuni ko'rsangiz bo'ladi.
 
 ### Installation
 
